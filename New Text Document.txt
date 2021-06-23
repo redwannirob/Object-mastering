@@ -1,0 +1,11 @@
+					
+
+
+						javascript call and apply rules
+					...............................................
+
+			call: kono object a thaka method ke onno kono object er jonno call korte chaile
+			      call korte chawa object parameter er pore "," diye porer proti ta parameter  pass
+				korte hoy.
+			apply: kono object a thaka method ke onno kono object er jonno apply korte chaile
+				apply korte chawa object parameter er pore "[]" er moddhe porer parameter guli pass korte hoy.
